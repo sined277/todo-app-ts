@@ -1,0 +1,27 @@
+.todo__label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+
+.todo__label span {
+    font-size: 30px;
+    color: black;
+}
+
+.todo__label i {
+    font-size: 25px;
+    font-style: inherit;
+    font-weight: bold;
+}
+
+.todo {
+    background-color: rgb(212, 212, 212);
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 10px;
+
+}

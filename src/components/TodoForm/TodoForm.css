@@ -1,0 +1,21 @@
+.inputForm {
+    margin-top: 20px;
+}
+
+
+
+.form__button {
+    color: #fff;
+    background-color: #000;
+    border: none;
+    padding: 14px 28px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: scale .3s;
+}
+
+.form__button:hover {
+    scale: 1.1;
+}
+
